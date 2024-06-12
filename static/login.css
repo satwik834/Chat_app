@@ -1,0 +1,46 @@
+h2
+{
+    color:black;
+    text-align: center;
+}
+body
+{
+    background-color: rgb(19, 103, 124);
+
+}
+.form
+{
+    background-color: white;
+    width:400px;
+    height:270px;
+    margin-left: 450px;
+    
+    
+
+}
+.register
+{
+    color:black;
+    background-color: bisque;
+    font-size:medium;
+    display: inline;
+    border:1px solid black;
+    text-decoration:none;
+}
+
+.innerdiv
+{
+    
+    text-align: center;
+   margin-top:150px;
+   
+
+}
+.para
+{
+    display:inline;
+}
+.log
+{
+    background-color:lightblue;
+}

@@ -1,0 +1,38 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body
+{
+    background-color: rgb(192, 192, 192);
+}
+.sectitle
+{
+    text-align:center;
+    color:blue;
+    font-size:30px;
+    margin-right:120px;
+}
+.form
+{
+    margin-top:20px;
+    border:1px solid pink;
+    text-align: center;
+    margin-right:500px;
+    margin-left: 400px;
+    padding-bottom:100px;
+    background:pink;
+    box-shadow:2px 8px green;
+    border-radius:20px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+input[type="submit"],
+select
+{
+    width:200px;;
+}
